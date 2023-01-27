@@ -1,0 +1,11 @@
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\bin\Debug\personInfomation.exe.config
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\bin\Debug\personInfomation.exe
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\bin\Debug\personInfomation.pdb
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\obj\Debug\personInfomation.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\obj\Debug\personInfomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\obj\Debug\personInfomation.Form1.resources
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\obj\Debug\personInfomation.Properties.Resources.resources
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\obj\Debug\personInfomation.csproj.GenerateResource.cache
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\obj\Debug\personInfomation.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\obj\Debug\personInfomation.exe
+C:\Users\usama\Desktop\Project\Windows Form\personInfomation\personInfomation\obj\Debug\personInfomation.pdb
