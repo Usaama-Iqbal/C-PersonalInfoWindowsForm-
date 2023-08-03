@@ -1,2 +1,2 @@
 # C-PersonalInfoWindowsForm-
-Person information system
+The Window-Based Information System Form is a user-friendly desktop application designed to manage and display information efficiently. It provides an intuitive graphical user interface (GUI) that allows users to interact with the system seamlessly. The application is built on the Windows operating system and leverages the capabilities of Windows Forms to create a responsive and visually appealing user interface.
